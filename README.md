@@ -1,3 +1,3 @@
 # Sunken King Game
 
-<object type="application/pdf" src="/doc/one-sheet.pdf" width="100%"></object>
+<object data="../docs/gdd-docs.pdf" width="1000" height="1000" type='application/pdf'></object>
