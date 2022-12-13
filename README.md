@@ -1,6 +1,7 @@
 # Sunken King Game
 
 ![alt text](./doc/gdd-docs-images/gdd-docs-1.jpg)
+<img align="left" width="100" height="100" src="./doc/gdd-docs-images/gdd-docs-2.jpg">
 <img src="/Sunken_King/doc/gdd-docs-image/gdd-docs-1.jpg" style="width: 100%">
 <img src="/Sunken_King/doc/gdd-docs-image/gdd-docs-2.jpg">
 <img src="/Sunken_King/doc/gdd-docs-image/gdd-docs-3.jpg">
