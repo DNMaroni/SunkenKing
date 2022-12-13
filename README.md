@@ -1,3 +1,3 @@
 # Sunken King Game
 
-<embed type="application/pdf" src="/doc/one-sheet.pdf">
+<object type="application/pdf" src="/doc/one-sheet.pdf" width="100%"></object>
